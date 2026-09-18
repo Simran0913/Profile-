@@ -1,57 +1,34 @@
 # Hi 👋, I'm Simran
 
-### 🌱 Exploring Product Management & Data Analytics
+### 🌱 Aspiring Product Manager | Product Management Learner
 
-I am a B.Tech graduate with professional experience in Quality Engineering and a growing interest in Product Management, Data Analytics, and problem-solving.
+I am a B.Tech graduate with professional experience in Quality Engineering, currently exploring Product Management and learning how to solve real-world user problems.
 
-Currently, I am learning and building practical skills in:
+### 🚀 Currently Learning
 
-- 📊 Data Analytics
-- 🧩 Product Management
-- 📈 Excel
-- 🗄️ SQL
-- 📊 Power BI
-- 🐍 Python
-- 🔍 User Research
-- 🧠 Product & Business Thinking
+- Product Discovery
+- User Research
+- Problem Framing
+- Product & Business Thinking
+- Systems Thinking
+- Product Metrics
+- User Journey Mapping
 
-### 🎯 My Learning Journey
-
-I'm currently developing my skills through hands-on projects, research, and practical exercises.
-
-I enjoy understanding user problems, analyzing data, and exploring how products can solve real-world problems.
-
-### 🚀 Current Projects
+### 📂 Projects
 
 🔹 **ChatGPT Voice Input Adoption Research**
 
 A user research project exploring why users may not use voice input on ChatGPT mobile, particularly in India.
 
-🔹 **More projects coming soon... 🚀**
+🔹 More projects coming soon 🚀
 
 ### 🛠️ Skills
 
-**Product & Research**
+**Product**
+`User Research` `Problem Framing` `Product Thinking` `Systems Thinking` `Product Discovery`
 
-`User Research` `Problem Framing` `Product Thinking` `Systems Thinking`
-
-**Analytics**
-
-`Excel` `SQL` `Power BI` `Python`
-
-**Professional Experience**
-
+**Professional**
 `Quality Engineering` `Quality Management` `MIS Reporting` `Product Audit`
-
-### 📚 Currently Learning
-
-- Product Discovery
-- User Research
-- Systems Thinking
-- Product Metrics
-- Excel & SQL
-- Power BI
-- Python for Data Analysis
 
 ### 📫 Connect With Me
 
