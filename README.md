@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Simran
 
-<!--
-**Simran0913/Simran0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Exploring Product Management & Data Analytics
 
-Here are some ideas to get you started:
+I am a B.Tech graduate with professional experience in Quality Engineering and a growing interest in Product Management, Data Analytics, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am learning and building practical skills in:
+
+- 📊 Data Analytics
+- 🧩 Product Management
+- 📈 Excel
+- 🗄️ SQL
+- 📊 Power BI
+- 🐍 Python
+- 🔍 User Research
+- 🧠 Product & Business Thinking
+
+### 🎯 My Learning Journey
+
+I'm currently developing my skills through hands-on projects, research, and practical exercises.
+
+I enjoy understanding user problems, analyzing data, and exploring how products can solve real-world problems.
+
+### 🚀 Current Projects
+
+🔹 **ChatGPT Voice Input Adoption Research**
+
+A user research project exploring why users may not use voice input on ChatGPT mobile, particularly in India.
+
+🔹 **More projects coming soon... 🚀**
+
+### 🛠️ Skills
+
+**Product & Research**
+
+`User Research` `Problem Framing` `Product Thinking` `Systems Thinking`
+
+**Analytics**
+
+`Excel` `SQL` `Power BI` `Python`
+
+**Professional Experience**
+
+`Quality Engineering` `Quality Management` `MIS Reporting` `Product Audit`
+
+### 📚 Currently Learning
+
+- Product Discovery
+- User Research
+- Systems Thinking
+- Product Metrics
+- Excel & SQL
+- Power BI
+- Python for Data Analysis
+
+### 📫 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/simran-45168a2a6)
+
+---
+
+⭐ Thanks for visiting my profile!
